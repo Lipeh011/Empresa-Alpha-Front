@@ -28,7 +28,8 @@ Alpha Solutions é um site simples e responsivo focado em oferecer soluções lo
 
 ## Design inicial
 
-- !(https://media.discordapp.net/attachments/1250289117909090375/1382728695633940602/image.png?ex=684c35f2&is=684ae472&hm=51ae20c21867891321bca39b5e1a30346f1d4608c985985922909fd85c135c65&=&format=webp&quality=lossless&width=1202&height=597)
+![Home](https://media.discordapp.net/attachments/1250289117909090375/1382728695633940602/image.png?ex=684c35f2&is=684ae472&hm=51ae20c21867891321bca39b5e1a30346f1d4608c985985922909fd85c135c65&=&format=webp&quality=lossless&width=1202&height=597)
+
 ---
 ## 📝 Observações
 
