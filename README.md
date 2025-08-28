@@ -28,7 +28,8 @@ Alpha Solutions é um site simples e responsivo focado em oferecer soluções lo
 
 ## Design inicial
 
-![Home](https://i.ibb.co/1fkyDb4Z/image.png)
+![Home](<img width="937" height="465" alt="image" src="https://github.com/user-attachments/assets/399d1dc7-fcd9-49dc-ba20-217e0d129d5a" />
+)
 
 ---
 ## Observações
