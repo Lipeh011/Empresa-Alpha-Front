@@ -20,7 +20,7 @@ Alpha Solutions é um site simples e responsivo focado em oferecer soluções lo
 
 ## Tecnologias usadas
 
-- HTML5 sem frescura
+- HTML5 
 - CSS3 com organização e responsividade (reset.css, style.css, responsivo.css)
 - Layout flexbox e grids para manter tudo no esquema
 - Imagens otimizadas para web
